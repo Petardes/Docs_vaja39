@@ -26,7 +26,6 @@
 	 /** Javni konstruktor za ustvarjanje objekta tipa/razreda PivskaSteklenica
 	  *	@param z Znamka piva
 	  *	@param k Kapaciteta v mililitrih
-	  * @return Nov objekt tipa pivska steklenica
 	  */
 	public PivskaSteklenica(String z, int k)  {
 		
@@ -36,8 +35,6 @@
 	/** Javni konstruktor za ustvarjanje objekta tipa/razreda PivskaSteklenica
 	  *	@param z Znamka piva
 	  *	@param k Kapaciteta v mililitrih
-	  *	@param s Stopnja alkohola
-	  * @return Nov objekt tipa pivska steklenica
 	  */
 	public PivskaSteklenica(String z, int k, double s)  {
 		

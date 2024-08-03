@@ -22,7 +22,6 @@
 	 /** Javni konstruktor za ustvarjanje objekta tipa/razreda Steklenica
 	  *	@param k Kapaciteta steklenice
 	  *	@param v Vrsta vsebine steklenice
-	  * @return Nov objekt tipa steklenica
 	  */
 	public Steklenica(int k, String v)  {
 		
@@ -42,7 +41,7 @@
 	/** Javna metoda, ki izprazni vsebino iz steklenice
 	  *	@param k Količina, ki jo želimo izprazniti
 	  * @return Vsebina steklenice
-	  * @throws Vrže izjemo, če je steklenica zaprta
+	  * @throws  Exception Vrže izjemo, če je steklenica zaprta
 	  */
 	public String izprazni (int k)  throws Exception {
 		

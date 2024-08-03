@@ -15,7 +15,7 @@
 	 
 	
 	/** Javna metoda, ki vrne stopnjo alkohola
-	  *	@param k Količina, ki jo želimo izprazniti
+	  *
 	  * @return stopnja alkohola
 	  */
 	  public double getStopnjaAlkohola();

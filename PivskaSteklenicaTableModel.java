@@ -44,6 +44,7 @@
 	}
 	
 	 /** Javna metoda, ki doda steklenico v tabelo
+	 @param ps objekt s pivsko steklenico, ki jo dodajamo v tabelo
 	  */		
 	public void addPivskaSteklenica(PivskaSteklenica ps)  {
 		
